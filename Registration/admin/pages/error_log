@@ -1,0 +1,1 @@
+[27-Apr-2022 07:09:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/fikticar/public_html/Registration/admin/pages/index.php on line 69
